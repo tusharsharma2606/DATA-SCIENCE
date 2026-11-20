@@ -1,0 +1,3 @@
+Hello, This is python file handling.
+
+Welcome to python programming.
